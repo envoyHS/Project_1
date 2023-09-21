@@ -13,5 +13,9 @@
   #Making a couple more figures in the early bit to get a better view of th e data
   
   #Since this was my first go a lot of this is pretty scatter brain.
-  
+
+
+
+  #Data come from Kaggle :
+  # https://www.kaggle.com/code/davidrpugh/sales-forecasting-with-mlforecast-part-1
   
