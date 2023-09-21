@@ -1,4 +1,9 @@
-# This is my first toe dip into a time series model
+# Baby's first time series model
+
+
+
+
+  This is my first toe dip into a time series model
   
   #  Things I am still working on:
 
